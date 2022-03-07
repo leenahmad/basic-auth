@@ -73,9 +73,6 @@ describe(' auth', () => {
         expect(response.status).toEqual(200);
         expect(response.body.username).toEqual('leen');
         });
-    it()
-
-
-
+  
     });
 
